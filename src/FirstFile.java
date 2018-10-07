@@ -7,5 +7,10 @@ public class FirstFile {
 		System.out.println("1");
 		
 		System.out.println("my local chnage....");
+		
+		System.out.println("m still workinggg.....");
+		
+		
+		System.out.println("spearate file changess......");
 	}
 }
